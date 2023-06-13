@@ -3,7 +3,7 @@ easily downloads many songs from youtube or soundcloud
 
 ## Requirements
 - [Python](https://www.python.org/)
-- [ytdl](https://pypi.org/project/ytdl/) python package
+- [yt-dlp](https://pypi.org/project/yt-dlp/) python package
 - [ffmpeg](https://ffmpeg.org/) on path
 
 ## playlist.py
